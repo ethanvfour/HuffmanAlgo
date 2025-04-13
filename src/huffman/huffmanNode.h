@@ -8,6 +8,7 @@ struct huffmanNode
     int frequency;
     bool isLeft;
     bool isRight;
+    char myChar;
     /*
     Default constructor
     */

@@ -7,4 +7,5 @@ huffmanNode::huffmanNode()
     frequency = 0;
     isLeft = false;
     isRight = false;
+    myChar = '\0';
 }
